@@ -1,6 +1,6 @@
 name: "💡 Task"
 description: "새로운 작업을 등록합니다."
-title: ""
+title: "[] "
 labels: []
 
 body:
